@@ -21,6 +21,8 @@ public class Main {
 	}
 	
 	public static int countClap(int number) {
-		return 0;
+		
+	 
+		return number;
 	}
 }
